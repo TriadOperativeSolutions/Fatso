@@ -1,1 +1,5 @@
 # Fatso
+      ^
+    / _ \
+
+    TRIAD
